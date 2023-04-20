@@ -27,7 +27,7 @@ export default function RoomCard({ room }) {
             display: "flex",
             flexDirection: "column",
             position: "relative",
-            color: "blue",
+            color: "hsl(240,50%,50%)",
           }}
         >
           <Typography variant="h5" component="h3">
